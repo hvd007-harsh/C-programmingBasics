@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1625484258 source:g:\c-learning\getting\circle.c
+	<stdio.h>
+	<unistd.h>
+
+1625600726 source:g:\c-learning\getting\operator.c
+	<stdio.h>
+
+1625601055 source:g:\c-learning\getting\logical operator.c
+
+1625604253 source:g:\c-learning\getting\incrementodecrementoperator.c
+	<stdio.h>
+
+1625604610 source:g:\c-learning\getting\demo1operator.c
+	<stdio.h>
+
+1625763856 source:g:\c-learning\getting\ternaryoperator.c
+	<stdio.h>
+
+1625764780 source:g:\c-learning\getting\else-ifladder.c
+	<stdio.h>
+
+1625767556 source:g:\c-learning\getting\grade.c
+	<stdio.h>
+
+1625768646 source:g:\c-learning\getting\switchcase(feedback).c
+	<stdio.h>
+
+1625938496 source:g:\c-learning\getting\evenoddexample.c
+	<stdio.h>
+
+1625939352 source:g:\c-learning\getting\coderchallange1.c
+	<stdio.h>
+
+1626022201 source:g:\c-learning\getting\charmiscellaneous.c
+	<stdio.h>
+
+1626247934 source:g:\c-learning\getting\assingment.c
+	<stdio.h>
+
+1626609106 source:g:\c-learning\getting\coderchallange2.c
+	<stdio.h>
+
+1626275601 source:g:\c-learning\getting\factorial.c
+	<stdio.h>
+
+1626287237 source:g:\c-learning\getting\countdigit.c
+	<stdio.h>
+
+1626458381 source:g:\c-learning\getting\palindrome.c
+	<stdio.h>
+
+1626520223 source:g:\c-learning\getting\test.c
+	<stdio.h>
+
+1626618685 source:g:\c-learning\getting\2darray.c
+	<stdio.h>
+
+1626804406 source:g:\c-learning\getting\codechallange3.c
+	<stdio.h>
+
+1626807127 source:g:\c-learning\getting\codechallange4.c
+	<stdio.h>
+
+1626881727 source:g:\c-learning\getting\recursion.c
+	<stdio.h>
+
+1626965831 source:g:\c-learning\getting\recursion2.c
+	<stdio.h>
+
+1626974052 source:g:\c-learning\getting\pointer.c
+	<stdio.h>
+
+1627133779 source:g:\c-learning\getting\calloc.c
+	<stdio.h>
+
+1627132845 source:g:\c-learning\getting\memoryallocodechallange6.c
+	<stdio.h>
+	<stdlib.h>
+
+1627151313 source:g:\c-learning\getting\realloc.c
+	<stdio.h>
+	<stdlib.h>
+
